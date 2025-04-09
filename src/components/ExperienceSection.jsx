@@ -210,10 +210,10 @@ export const ExperienceSection = () => {
             />
           </div>
           <div ref={vidyutBlockRef} className="col-span-1 flex h-full w-full items-center justify-center row-span-1 relative bg-white">
-            <div ref={throwbackTextRef} className="-rotate-90 absolute -left-1/3 top-1/2 -translate-y-[150%] text-nowrap w-full text-black font-light text-6xl">
+            <div ref={throwbackTextRef} className="-rotate-90 absolute -left-1/3 top-1/2 -translate-y-[150%] text-nowrap w-full text-black font-light text-5xl">
               A Throwback to
             </div>
-            <p ref={vidyutTextRef} className="text-9xl pl-20 font-semibold text-black">
+            <p ref={vidyutTextRef} className="text-8xl p-0 font-semibold text-black">
               VID<br />YUT<br />23K
             </p>
             <img
